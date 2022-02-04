@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/la-decision-pt2/static/css/main.b152a870.css",
+    "main.js": "/la-decision-pt2/static/js/main.1465ee8e.js",
+    "static/js/787.9895ac89.chunk.js": "/la-decision-pt2/static/js/787.9895ac89.chunk.js",
+    "static/media/Picture8.png": "/la-decision-pt2/static/media/Picture8.b3c7c957c3aa050e853b.png",
+    "static/media/Media2.mp3": "/la-decision-pt2/static/media/Media2.494d15252f3e87b5c183.mp3",
+    "static/media/Picture6.png": "/la-decision-pt2/static/media/Picture6.23460edeee1c36b4b969.png",
+    "static/media/Picture7.png": "/la-decision-pt2/static/media/Picture7.744b50bf518100cc1a0f.png",
+    "static/media/Picture2.png": "/la-decision-pt2/static/media/Picture2.cde0736b86f6441dd3b1.png",
+    "static/media/Media1.mp3": "/la-decision-pt2/static/media/Media1.94e589fe5476409f269a.mp3",
+    "static/media/Picture1.png": "/la-decision-pt2/static/media/Picture1.ab32126107eb950ee4e1.png",
+    "static/media/Picture3.png": "/la-decision-pt2/static/media/Picture3.67ffd9aa593dd7a57ff3.png",
+    "static/media/Picture10.png": "/la-decision-pt2/static/media/Picture10.0894a7107223e2944607.png",
+    "static/media/Picture4.png": "/la-decision-pt2/static/media/Picture4.7c7e98976681e0f8c38d.png",
+    "static/media/Century Gothic.ttf": "/la-decision-pt2/static/media/Century Gothic.b194aa2bd524e2c973f7.ttf",
+    "static/media/01.jpg": "/la-decision-pt2/static/media/01.615750841633af96b379.jpg",
+    "static/media/03.jpg": "/la-decision-pt2/static/media/03.2f5aef2d0d38d1bce310.jpg",
+    "static/media/02.jpg": "/la-decision-pt2/static/media/02.5595dc733a0cc08f869c.jpg",
+    "static/media/15.jpg": "/la-decision-pt2/static/media/15.7460d1a53bae2bc29371.jpg",
+    "static/media/12.jpg": "/la-decision-pt2/static/media/12.94138c19a22cbe9146c7.jpg",
+    "static/media/13.jpg": "/la-decision-pt2/static/media/13.1b9acd17a0ca63ce7b35.jpg",
+    "static/media/16.jpg": "/la-decision-pt2/static/media/16.e80c8588bb6063fd7436.jpg",
+    "static/media/10.jpg": "/la-decision-pt2/static/media/10.e672117a748df2a68865.jpg",
+    "static/media/11.jpg": "/la-decision-pt2/static/media/11.9de3318d27db6ff828d6.jpg",
+    "static/media/04.jpg": "/la-decision-pt2/static/media/04.850d4d21c8809c167349.jpg",
+    "static/media/Picture5.jpg": "/la-decision-pt2/static/media/Picture5.6f8d6667d4a964b902ec.jpg",
+    "static/media/Picture9.png": "/la-decision-pt2/static/media/Picture9.973e08ae6f932bed5292.png",
+    "static/media/Avatar.png": "/la-decision-pt2/static/media/Avatar.01842f6936c3117820fd.png",
+    "index.html": "/la-decision-pt2/index.html",
+    "main.b152a870.css.map": "/la-decision-pt2/static/css/main.b152a870.css.map",
+    "main.1465ee8e.js.map": "/la-decision-pt2/static/js/main.1465ee8e.js.map",
+    "787.9895ac89.chunk.js.map": "/la-decision-pt2/static/js/787.9895ac89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b152a870.css",
+    "static/js/main.1465ee8e.js"
+  ]
+}
