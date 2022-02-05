@@ -171,10 +171,10 @@ export class App extends Component {
                 {/* Intro Slide */}
                 <div className="slide fade" style={{display: "flex"}}>
                     <div className="image-container">
-                        <img className="image" src={image01}/>
+                        <img alt='' className="image" src={image01}/>
                         <div className="avatar-container">
                           <div className="flex-row">
-                            <img className="avatar" src={avatar} onClick={() => {this.show('intro'); this.toggleSound('intro-sound'); this.hide('click1'); this.showNext();}}/>
+                            <img alt='' className="avatar" src={avatar} onClick={() => {this.show('intro'); this.toggleSound('intro-sound'); this.hide('click1'); this.showNext();}}/>
                             <i id="click1" class="fa fa-arrow-left">&larr;Appuie ici</i>
                           </div>
                         </div>
@@ -190,16 +190,16 @@ export class App extends Component {
                 {/* Slide 1 */}
                 <div className="slide fade">
                     <div className="image-container">
-                        <img className="image" src={image02}/>
+                        <img alt='' className="image" src={image02}/>
                         <div className="avatar-container">
                           <div className="flex-row">
-                            <img className="avatar" src={avatar} onClick={() => {this.toggle('s1'); this.hide('click2'); this.showNext()}}/>
+                            <img alt='' className="avatar" src={avatar} onClick={() => {this.toggle('s1'); this.hide('click2'); this.showNext()}}/>
                             <i id="click2" class="fa fa-arrow-left">&larr;Appuie ici</i>
                           </div>
                           <p>Mon village a beaucoup de problèmes. <span className="highlight">Nous faisons la queue</span> pour aller chercher de l’eau d’un seul robinet.</p>
                           <div id="s1" className="speech2">
                             nous faisons la queue : nous nous mettons en ligne
-                            <img className="popup-image" src={s1}/>
+                            <img alt='' className="popup-image" src={s1}/>
                           </div>
                         </div>
                     </div>
